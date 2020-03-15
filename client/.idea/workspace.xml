@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85672e9f-8a15-48ee-9935-0ddfe7f73d3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="C:\Users\Worble\projects\applications\blackdot-solutions-test\client\node_modules\.bin\elm.cmd" elmFormatPath="C:\Users\Worble\AppData\Local\Yarn\bin\elm-format.cmd" elmTestPath="C:\Users\Worble\projects\applications\blackdot-solutions-test\client\node_modules\.bin\elm-test.cmd" isElmFormatOnSaveEnabled="true" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xmkULxzw" />
+  </component>
+  <component name="ProjectId" id="1ZB3ULQv7AwXCZItSqszuoOWqjt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elm.json" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85672e9f-8a15-48ee-9935-0ddfe7f73d3a" name="Default Changelist" comment="" />
+      <created>1584298674943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584298674943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1584298805152">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1584298805152" />
+    <state x="185" y="124" key="SettingsEditor" timestamp="1584305718517">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="185" y="124" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1584305718517" />
+  </component>
+</project>
