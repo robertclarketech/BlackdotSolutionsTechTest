@@ -2,7 +2,7 @@ module Main exposing (main)
 
 import Browser
 import Html exposing (Html, a, article, button, div, h1, h2, input, nav, p, progress, table, tbody, td, text, th, thead, tr)
-import Html.Attributes exposing (class, placeholder, type_, value)
+import Html.Attributes exposing (class, href, placeholder, target, type_, value)
 import Html.Events exposing (onClick, onInput)
 import Http
 import Json.Decode as Decode exposing (Decoder)
@@ -304,6 +304,6 @@ viewQueryResult : QueryResult -> Html Msg
 viewQueryResult queryResult =
     tr []
         [ td [] [ text queryResult.text ]
-        , td [] [ a [] [ text queryResult.url ] ]
+        , td [] [ a [ href queryResult.url, target "_blank" ] [ text queryResult.url ] ]
         , td [] [ text queryResult.searchEngineType ]
         ]
