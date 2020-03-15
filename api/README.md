@@ -8,7 +8,7 @@
 
 - Using either the Firefox or Chrome Selenium drivers requires the full browser to be installed on your system. Install at least one of these and set `SearchEngineServiceSettings.DriverType` in `BlackdotTechTest.WebApi/appsettings.json` to either `Firefox` or `Chrome`.
 
-	- Despite the fact I included Linux instructions for sqlite, the only included Selenium drivers are both for Windows. Theoretically these could be swapped out for Linux versions rather easily, but would probably require some configuration changes when creating the WebDrivers, so for now please consider this project to be Windows only.
+	- Despite the fact I included Linux instructions for sqlite, the only included Selenium drivers are both for Windows. Theoretically these could be swapped out for Linux versions, but would probably require some configuration changes when creating the WebDrivers, so for now please consider this project to be Windows only.
 
 	- Firefox's Selenium Driver also seems significantly slower than Chrome's. I don't know why.
 

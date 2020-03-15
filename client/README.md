@@ -1,6 +1,8 @@
 # Project Structure  
 
-All source files can be found under `/src`. All Elm files can be found under `/src/elm`
+All source files can be found under `/src`. 
+
+All Elm files can be found under `/src/elm`
 
 All distribution files can be found under `/dist`  
   
